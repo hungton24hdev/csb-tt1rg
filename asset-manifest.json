@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://hungton24hdev.github.io/csb-tt1rg/static/css/main.3982c318.chunk.css",
-    "main.js": "https://hungton24hdev.github.io/csb-tt1rg/static/js/main.3303e2c9.chunk.js",
-    "main.js.map": "https://hungton24hdev.github.io/csb-tt1rg/static/js/main.3303e2c9.chunk.js.map",
+    "main.js": "https://hungton24hdev.github.io/csb-tt1rg/static/js/main.9cf5ca5c.chunk.js",
+    "main.js.map": "https://hungton24hdev.github.io/csb-tt1rg/static/js/main.9cf5ca5c.chunk.js.map",
     "runtime-main.js": "https://hungton24hdev.github.io/csb-tt1rg/static/js/runtime-main.c84d4eed.js",
     "runtime-main.js.map": "https://hungton24hdev.github.io/csb-tt1rg/static/js/runtime-main.c84d4eed.js.map",
     "static/css/2.08406ff1.chunk.css": "https://hungton24hdev.github.io/csb-tt1rg/static/css/2.08406ff1.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.08406ff1.chunk.css",
     "static/js/2.f128e3d0.chunk.js",
     "static/css/main.3982c318.chunk.css",
-    "static/js/main.3303e2c9.chunk.js"
+    "static/js/main.9cf5ca5c.chunk.js"
   ]
 }
